@@ -1,4 +1,4 @@
 
 ### hovision
 
-[虹视](./HOVISION.jpg)
+![虹视](./HOVISION.jpg)
